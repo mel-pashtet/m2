@@ -223,6 +223,8 @@ return [
         'Magento_WishlistAnalytics' => 1,
         'Magento_WishlistGraphQl' => 1,
         'Magento_WishlistSampleData' => 1,
+        'Mel_Training_Dependency2' => 0,
+        'Mel_Training_Dependency' => 1,
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1
     ]
